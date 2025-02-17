@@ -1,6 +1,6 @@
 ### DoRightt - Anton Sukhov
 
-### Hi there 👋
+### Hello there 👋
 My name is Anton, and I am a JavaScript developer specializing in Angular. I am currently making the transition to backend development using Go.
 
 ---
